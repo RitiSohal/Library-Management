@@ -1,5 +1,5 @@
 # Library-Management
-
+```sql
 1. SQL Query for Write a query to get all books that have never been borrowed:
 SELECT 
     b.book_name AS "Book Name",
